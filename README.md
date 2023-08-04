@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanakya Devendra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdev-19&label=Profile%20views&color=0e75b6&style=flat" alt="charan-271" /> </p>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 - 🔭 I’m currently working on **Blockchain Technologies**
